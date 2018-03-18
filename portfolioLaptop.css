@@ -8,9 +8,20 @@ html, body, main{
 	overflow-x: hidden;
 }
 
-a{
+.a{
 	text-decoration: none;
 	color: #00f;
+}
+
+.fa{
+	font-size: 20px;
+}
+
+.logo{
+	display: flex;
+	flex-wrap: wrap;
+	position: relative;
+	left: 50px;
 }
 
 @media screen and (min-width: 1281px) and (max-width: 1920px){
@@ -648,12 +659,10 @@ a{
 
 }
 
-
-
 @media screen and (max-width: 699px){
 
 	.down_fifth{
-		background-color: #864FEC;
+		background-color: #F1F1F1;
 		position: relative;
 		bottom: 87px;
 		padding-bottom: 20px;

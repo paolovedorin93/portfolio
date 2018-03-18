@@ -8,9 +8,21 @@ html, body, main{
 
 }
 
-a{
+.a{
 	text-decoration: none;
 	color: #00f;
+}
+
+.fa{
+	font-size: 20px;
+}
+
+.logo{
+	display: flex;
+	flex-wrap: wrap;
+	position: relative;
+	bottom: 50px;
+	left: 50px;
 }
 
 @media screen and (max-width: 550px){
@@ -60,6 +72,9 @@ a{
 	.credits{
 		margin-left: 10px;
 		font-weight: bold;
+		display: flex;
+		flex-wrap: wrap;
+		width: 50%;
 	}
 
 	.credits_white{
@@ -135,7 +150,7 @@ a{
 	}
 
 	.down_fifth{
-		background-color: #864FEC;
+		background-color: #F1F1F1;
 		position: relative;
 		bottom: 87px;
 		padding-bottom: 20px;
@@ -437,7 +452,7 @@ a{
   	.credits{
   		display: flex;
   		flex-wrap: wrap;
-  		width: 50%
+  		width: 50%;
   	}
 
 }
@@ -481,7 +496,7 @@ a{
   	.credits{
   		display: flex;
   		flex-wrap: wrap;
-  		width: 50%
+  		width: 50%;
   	}
 
 }
@@ -500,6 +515,15 @@ a{
 		display: flex;
 		flex-wrap: wrap;
 		width: 40%;
+	}
+
+}
+
+@media screen and (max-width: 323px){
+
+	.logo{
+		position: relative;
+		top: 20px;
 	}
 
 }
