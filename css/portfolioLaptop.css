@@ -1,4 +1,6 @@
-html, body, main{
+html,
+body,
+main{
 	margin: 0;
 	padding: 0;
 	width: 100%;
@@ -292,7 +294,10 @@ html, body, main{
 		bottom: 87px;
 	}
 
-	.down_fifth h1, .box_facebook, .box_google, .box_github{
+	.down_fifth h1,
+	.box_facebook,
+	.box_google,
+	.box_github{
 		position: relative;
 		top: 150px;
 		left: 150px;
@@ -681,7 +686,10 @@ html, body, main{
 		padding-bottom: 20px;
 	}
 
-	.down_fifth h1, .box_facebook, .box_google, .box_github{
+	.down_fifth h1,
+	.box_facebook,
+	.box_google,
+	.box_github{
 		position: relative;
 		left: 200px;
 		top: 150px;
@@ -699,7 +707,10 @@ html, body, main{
 		bottom: 87px;
 	}
 
-	.down_fifth h1, .box_facebook, .box_google, .box_github{
+	.down_fifth h1,
+	.box_facebook,
+	.box_google,
+	.box_github{
 		position: relative;
 		left: 200px;
 		top: 150px;
@@ -718,7 +729,10 @@ html, body, main{
 		
 	}
 
-	.down_fifth h1, .box_facebook, .box_google, .box_github{
+	.down_fifth h1,
+	.box_facebook,
+	.box_google,
+	.box_github{
 		position: relative;
 		top: 200px;
 		left: 150px;
@@ -942,7 +956,10 @@ html, body, main{
 		margin-left: 30px;
 	}
 
-	.down_fifth h1, .box_facebook, .box_google, .box_github{
+	.down_fifth h1,
+	.box_facebook,
+	.box_google,
+	.box_github{
 		position: relative;
 		left: 200px;
 		top: 150px;
